@@ -617,8 +617,8 @@ display: block;
     position: absolute;
     inset: 0;
     background: linear-gradient(135deg,
-            #431238 0%,
-            rgba(0, 5, 20, 0.72) 100%);
+            #2934d14b 30%,
+            rgba(38, 108, 247, 0.39) 70%);
 }
 
 .audio-content {
