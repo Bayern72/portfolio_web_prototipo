@@ -13,7 +13,7 @@ const sections = [
   { id: "brief", num: "02", title: "Brief", label: "Brief Informativo · Portafolio Web Multimedia", icon: "📋",
     media: { kind: "pdf", src: "brief.pdf" } },
   { id: "idea", num: "03", title: "Idea", label: "Idea · Registro de audio", icon: "🎧",
-    media: { kind: "audio", src: "audio/idea (online-audio-converter.com) (1).mp3", bg: "pdfs/Brief/fondobrief.png" } },
+    media: { kind: "audio", src: "videos/Idea de Portfolio.m4a", bg: "pdfs/Brief/fondobrief.png" } },
   { id: "concepto_grafico", num: "04", title: "Concepto Gráfico", label: "Concepto Gráfico · Portafolio Web Multimedia", icon: "🎨",
     media: { kind: "video", src: "videos/concepto_grafico.mp4" } },
   { id: "manual_de_marca", num: "05", title: "Manual de marca", label: "Manual de marca · Portafolio Web Multimedia", icon: "📘",
