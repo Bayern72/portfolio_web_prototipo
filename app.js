@@ -25,7 +25,7 @@ const sections = [
   { id: "mockup", num: "08", title: "Mockup", label: "Mockup · Portafolio Web Multimedia", icon: "🖼️",
     media: { kind: "pdf", src: "pdfs/Mockup_Portafolio_JS.pdf" } },
   { id: "prototipos", num: "09", title: "Prototipos", label: "Prototipos · Portafolio Web Multimedia", icon: "⚙️",
-    media: { kind: "pdf", src: "pdfs/Mockup_Portafolio_JS.pdf" } },
+    media: { kind: "image", src: "img/qr_prototipo.png", alt: "Código QR del prototipo" } },
 ];
 
 const phases = [
