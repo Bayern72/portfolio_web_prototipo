@@ -23,9 +23,9 @@ const sections = [
   { id: "wireframes", num: "07", title: "Wireframes", label: "Wireframes · Portafolio Web Multimedia", icon: "📐",
     media: { kind: "pdf", src: "pdfs/wireframe_portfolio_js.pdf" } },
   { id: "mockup", num: "08", title: "Mockup", label: "Mockup · Portafolio Web Multimedia", icon: "🖼️",
-    media: { kind: "pdf", src: "mockup.pdf" } },
+    media: { kind: "pdf", src: "pdfs/Mockup_Portafolio_JS.pdf" } },
   { id: "prototipos", num: "09", title: "Prototipos", label: "Prototipos · Portafolio Web Multimedia", icon: "⚙️",
-    media: { kind: "image", src: "img/qr_prototipo.png", alt: "Código QR para abrir el prototipo interactivo" } },
+    media: { kind: "pdf", src: "pdfs/Mockup_Portafolio_JS.pdf" } },
 ];
 
 const phases = [
